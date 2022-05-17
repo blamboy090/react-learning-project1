@@ -72,3 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ====================
 Session 1 - stopped at JSX 25:54
+--------------------
+Session 2 - stopped at
+- React is a declarative language, relying on react to determine how to take code and write it to DOM
+- JSX, HTML JS hybrid
+    - cannot use class need className
+    - creates JS objects
+    - can only return single parent element, wrap multiple elements in <div></div>
+    
