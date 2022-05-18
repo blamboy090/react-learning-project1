@@ -73,10 +73,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ====================
 Session 1 - stopped at JSX 25:54
 --------------------
-Session 2 - stopped at
+Session 2 - stopped at 40:20
 - React is a declarative language, relying on react to determine how to take code and write it to DOM
 - JSX, HTML JS hybrid
     - cannot use class need className
     - creates JS objects
     - can only return single parent element, wrap multiple elements in <div></div>
-    
+--------------------
+Session 3 - stopped at Componenets 59:55
+Pop Quiz! 
+    1. To be able to use JSX (JSX sytax is defined in react) [O]
+    2. an Object (Javascript object) [O]
+    3. Missing <div> (need to be nested under a single parent element) [O]
+    4. Explicit instructions vs Implied instructions [X] (can tell computer what to do and expect it to handle the details vs need to tell how to do each step)
+    5. Can consist of many components [O] We have small pieces that we can put together to make something larger/ greater than the individual pieces
