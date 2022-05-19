@@ -95,3 +95,12 @@ Pop Quiz!
     1. Modular block of code (function that returns react elements) [X]
     2. Not Pascal case [O]
     3. No parent div(componenet call was incorrect used () no <>) [X]
+--------------------
+Session 5 - stopped at 1:22:04 Working on header styling
+Parent and child 
+Mini Challenge - Move header element into its own componenet
+    - Pt 2, move footer and body into own componenet 
+
+Styling Mini Challange
+Navigation (UL) inside  Headers nav (LI) Pricing About and Contact
+adding stylign needs className=""
