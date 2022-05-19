@@ -87,3 +87,11 @@ Pop Quiz!
     3. Missing <div> (need to be nested under a single parent element) [O]
     4. Explicit instructions vs Implied instructions [X] (can tell computer what to do and expect it to handle the details vs need to tell how to do each step)
     5. Can consist of many components [O] We have small pieces that we can put together to make something larger/ greater than the individual pieces
+--------------------
+Session 4 - stopped at 1:13:43
+- pascal case for component names
+- warapped in carats <component />
+Pop Quiz!
+    1. Modular block of code (function that returns react elements) [X]
+    2. Not Pascal case [O]
+    3. No parent div(componenet call was incorrect used () no <>) [X]
