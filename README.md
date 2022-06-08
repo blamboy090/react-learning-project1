@@ -104,3 +104,17 @@ Mini Challenge - Move header element into its own componenet
 Styling Mini Challange
 Navigation (UL) inside  Headers nav (LI) Pricing About and Contact
 adding stylign needs className=""
+------------------
+Session 6 paused at 1:29
+Styling and file structuring 
+Components in different files need to be imported/ exported to be used
+
+Build A React info site 
+(clearing current project contents)
+
+Layout
+Header
+Nav Bar (flex box)
+Heading
+UL
+Li
